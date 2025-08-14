@@ -1,0 +1,21 @@
+[0.867s] Invoking command in '/home/jayanth/fk_4dof/src/forward_kinematics': PYTHONPATH=/home/jayanth/fk_4dof/build/forward_kinematics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/fk_4dof/install/forward_kinematics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/forward_kinematics build --build-base /home/jayanth/fk_4dof/build/forward_kinematics/build install --record /home/jayanth/fk_4dof/build/forward_kinematics/install.log --single-version-externally-managed install_data
+[1.137s] running egg_info
+[1.138s] writing ../../build/forward_kinematics/forward_kinematics.egg-info/PKG-INFO
+[1.138s] writing dependency_links to ../../build/forward_kinematics/forward_kinematics.egg-info/dependency_links.txt
+[1.138s] writing entry points to ../../build/forward_kinematics/forward_kinematics.egg-info/entry_points.txt
+[1.139s] writing requirements to ../../build/forward_kinematics/forward_kinematics.egg-info/requires.txt
+[1.139s] writing top-level names to ../../build/forward_kinematics/forward_kinematics.egg-info/top_level.txt
+[1.142s] reading manifest file '../../build/forward_kinematics/forward_kinematics.egg-info/SOURCES.txt'
+[1.143s] writing manifest file '../../build/forward_kinematics/forward_kinematics.egg-info/SOURCES.txt'
+[1.143s] running build
+[1.143s] running build_py
+[1.143s] running install
+[1.144s] running install_lib
+[1.147s] running install_data
+[1.147s] running install_egg_info
+[1.149s] removing '/home/jayanth/fk_4dof/install/forward_kinematics/lib/python3.10/site-packages/forward_kinematics-0.0.0-py3.10.egg-info' (and everything under it)
+[1.149s] Copying ../../build/forward_kinematics/forward_kinematics.egg-info to /home/jayanth/fk_4dof/install/forward_kinematics/lib/python3.10/site-packages/forward_kinematics-0.0.0-py3.10.egg-info
+[1.150s] running install_scripts
+[1.171s] Installing forward_kine script to /home/jayanth/fk_4dof/install/forward_kinematics/lib/forward_kinematics
+[1.172s] writing list of installed files to '/home/jayanth/fk_4dof/build/forward_kinematics/install.log'
+[1.198s] Invoked command in '/home/jayanth/fk_4dof/src/forward_kinematics' returned '0': PYTHONPATH=/home/jayanth/fk_4dof/build/forward_kinematics/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jayanth/fk_4dof/install/forward_kinematics/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/forward_kinematics build --build-base /home/jayanth/fk_4dof/build/forward_kinematics/build install --record /home/jayanth/fk_4dof/build/forward_kinematics/install.log --single-version-externally-managed install_data

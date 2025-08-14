@@ -1,0 +1,3 @@
+[console_scripts]
+forward_kine = forward_kinematics.forward_kine:main
+
